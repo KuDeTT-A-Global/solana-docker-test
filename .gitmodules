@@ -5,11 +5,3 @@
 [submodule "anarcrypt-blockchain/frontend/Metaverse-Developement/Blockchains/solana"]
 	path = anarcrypt-blockchain/frontend/Metaverse-Developement/Blockchains/solana
 	url = git@github.com:RastaDjuss/solana.git
-	
-[submodule "anarcrypt-blockchain/frontend/Metaverse-Developement/Blockchains/Blockchain-Development-Resources"]
-    path = anarcrypt-blockchain/frontend/Metaverse-Developement/Blockchains/Blockchain-Development-Resources
-	url = https://github.com/RastaDjuss/Blockchain-Development-Resources.git
-
-[submodule "anarcrypt-blockchain/frontend/Metaverse-Developement/Blockchains/solana"]
-	path = anarcrypt-blockchain/frontend/Metaverse-Developement/Blockchains/solana
-	url = git@github.com:RastaDjuss/solana.git
